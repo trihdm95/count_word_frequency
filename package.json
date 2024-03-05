@@ -19,6 +19,10 @@
   },
   "repository": {
     "type": "git",
-    "url"
-  }
+    "url": "https://github.com/trihdm95/count_word_frequency.git"
+  },
+  "bugs": {
+    "url": "https://github.com/trihdm95/count_word_frequency/issues"
+  },
+  "homepage": "https://github.com/trihdm95/count_word_frequency/blob/main/README.md"
 }
